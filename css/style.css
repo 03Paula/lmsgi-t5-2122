@@ -57,10 +57,10 @@ h1 span,
 h2 span,
 h3 span,
 h4 span {
-	color: #DB0A61;
+	color: #cf9c7e;
 }
 .colored {
-	color: #DB0A61;
+	color: #cf9c7e;
 }
 a {
 	color: #55acee;
@@ -148,11 +148,11 @@ blockquote {
 	z-index: 2;
 }
 .subfooter {
-	background-color: #DA095F;
+	background-color: #cf9c7e;
 	padding: 40px 0;
 }
 .subfooter a {
-color: #FF89BA;
+color: #632199;
 }
 .section {
 	background-color: #ffffff;
@@ -170,12 +170,12 @@ color: #FF89BA;
 }
 .btn-primary {
 color: #fff;
-background-color: #BD0451;
+background-color: #cf9c7e;
 border:0px;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
 color: #fff;
-background-color: #E00A63;
+background-color: #b17959;
 border:0px;
 }
 .transprant-bg {
@@ -359,12 +359,12 @@ text-align:center;
 }
 .btn-default {
 	color: #FFFFFF;
-	background: #E00A63;
+	background: #cf9c7e;
 	border: 0;
 }
 .btn-default:hover {
 	color: #ffffff;
-	background-color: #BB0A53;
+	background-color: #b17959;
 	border: 0;
 }
 
@@ -397,7 +397,7 @@ text-align:center;
 	display: inline-block;
 	width: 100%;
 	background-color: #fff;
-	color: #DB0A61;
+	color: #cf9c7e;
 	position: relative;
 	text-decoration: none;
 	border: #ECECEC 1px solid;
@@ -423,7 +423,7 @@ text-align:center;
 .panel-heading a:hover {
 	text-decoration: none;
 	background-color: #FFFFFF;
-	color: #DB0A61;
+	color: #cf9c7e;
 }
 .panel-title a i {
 	padding-right: 10px;
@@ -436,8 +436,8 @@ text-align:center;
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus,
 .nav-pills > li > a:hover {
-	background-color: #DB0A61;
-	border-color: #DB0A61;
+	background-color: #cf9c7e;
+	border-color: #cf9c7e;
 	color: #ffffff;
 }
 .nav-pills > li > a {
@@ -526,11 +526,11 @@ padding: 10px 0;
 }
 .main-navigation .navbar-default .navbar-nav > li.active > a {
 	background-color: transparent;
-	color: #DB0A61;
+	color: #b574db;
 }
 .main-navigation .navbar-default .navbar-nav > li > a:hover,
 .main-navigation .navbar-default .navbar-nav > li.active > a:hover {
-	color: #DB0A61;
+	color: #cf9c7e;
 }
 
 /* carousel */
