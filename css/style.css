@@ -122,25 +122,23 @@ body {
 	  text-align: center;
 	  margin-top: 35px;
 	  font-size: 70px;
+	  padding-right: 10%;
   }
 
+  
   .caracteristicas{
 	text-align: left;
-	margin-top: 70px;
-	margin-left: 10px;
+	padding-left: 8%;
+	margin: 60px 10px 0px 10px;
   }
 
-  .ventajas{
+  .ventajas, .desventajas{
 	text-align: left;
-	margin-top: 35px;
+	margin-top: 20px;
 	margin-left: 10px;
+	padding-left: 8%;
   }
 
-  .desventajas{
-	text-align: left;
-	margin-top: 35px;
-	margin-left: 10px;
-  }
 
   .carousel {
 	margin: 0 auto;
@@ -182,9 +180,9 @@ body {
   
   .slider-nav {
 	align-items: center;
-	background-color: rgb(145, 33, 179);
+	background-color: #764c45;
 	border-radius: 50%;
-	color: #000;
+	color: #eadba8;
 	display: inline-flex;
 	height: 7rem;
 	justify-content: center;
@@ -197,23 +195,23 @@ body {
   .slider-nav:hover,
   .slider-nav:active {
 	background-color: #cf9c7e;
-	color: rgb(0, 0, 0);
+	color: #451f19;
   }
   
   .slide-1 {
-	background-color: #fdc;
+	background-color: #E1DCCF;
   }
   
   .slide-2 {
-	background-color: rgb(223, 178, 189);
+	background-color: #A1A2A6;
   }
   
   .slide-3 {
-	background-color: #fdc;
+	background-color: #6E7B69;
   }
   
   .slide-4 {
-	background-color: rgb(223, 178, 189);
+	background-color: #998585;
   }
   
   .carousel__skip-link {
@@ -241,31 +239,36 @@ body {
 /* Imágenes carousel
 ----------------------------------------------------------------------------- */
 #holded{
-	width: 150px;
-	height: 150px;
+	width: 500px;
+	height: 100px;
 	float: left;
-	padding: 10px;
+	margin-left: 10%;
+
 }
 
 #sagex3{
-	width:170px;
-	height: 150px;
+	width: 450px;
+	height: 100px;
 	float: left;
-	padding: 10px;
+	margin-left: 10%;
 }
 
 #microsoft{
-	width: 250px;
-	height: 150px;
+	width: 300px;
+	height: 100px;
 	float: left;
-	padding: 10px;
+	margin-left: 10%;
+	
+
 }
 
 #sap{
-	width: 250px;
-	height: 150px;
+	width: 450px;
+	height: 100px;
 	float: left;
-	padding: 10px;
+	margin-left: 10%;
+	
+	
 }
 
 /* Layout
